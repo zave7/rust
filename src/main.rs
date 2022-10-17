@@ -1,3 +1,5 @@
+use std::mem::size_of; // import
+
 fn main() {
     println!("Hello, world!");
     let _x = 1; // underscore 로 warning 을 무시할 수 있다.
@@ -16,8 +18,11 @@ fn integer() {
 
 fn char() {
     println!("char");
-    let letter = 'a';
+    let letter = 'a'; // 4 bytes
     let cat_face = '😹'; // char 는 유니코드
+    println!("Size of a char: {}", size_of::<char>());
+    println!("Size of string containing '&&&&': {}", "&&&&".len()); // len() 은 byte 수 를 구한다.
+    println!("Size of string containing '🕊🕊️': {}", "🕊🕊️".len());
 }
 
 fn casting() {
