@@ -1,6 +1,6 @@
 # Rust
 
-**`rust`** 저장소는 **[Rust](https://www.rust-lang.org/)**를 학습하기 위한 저장소입니다.
+**`rust`** 저장소는 [Rust](https://www.rust-lang.org/)를 학습하기 위한 저장소입니다.
 
 ## **Rust란?**
 
@@ -12,8 +12,7 @@ Rust는 Mozilla에서 개발한 시스템 프로그래밍 언어입니다. C++�
 
 ## **사용 방법**
 
-이 저장소를 사용하려면 먼저 로컬 환경에 Rust를 설치해야 합니다. 설치 방법은 **[Rust 설치 가이드](https://www.rust-lang.org/tools/install)**를 참고하세요.
+이 저장소를 사용하려면 먼저 로컬 환경에 Rust를 설치해야 합니다. 설치 방법은 [Rust 설치 가이드](https://www.rust-lang.org/tools/install)를 참고하세요.
 
 ## 참고 학습 자료
-한국어 잘하는 외국인 개발자 유튜버!! [mithradates]
-{% include video id="W9DO6m8JSSs" provider="youtube" %}
+한국어 잘하는 외국인 러스트 개발자 유튜브!! [mithradates](https://www.youtube.com/watch?v=W9DO6m8JSSs)
