@@ -1,6 +1,6 @@
 # Rust
 
-**`rust`** 저장소는 [Rust](https://www.rust-lang.org/)를 학습하기 위한 저장소입니다.
+**`Rust`** 저장소는 [Rust](https://www.rust-lang.org/)를 학습하기 위한 저장소입니다.
 
 ## **Rust란?**
 
